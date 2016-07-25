@@ -14,12 +14,12 @@ sbit CS_CONTROL_B   = P1^7;
 sbit CS_CONTROL_C   = P3^7;   // 将原来2个不用的FRST VIO端口 修改为  CS0 CS1 CS2  控制3-8译码器来控制6个模块的CS端  
 
 
-sbit SN_A = P1 ^ 0;          // P1.0-P1.5 6个端口来控制扫描电路的48根行线
-sbit SN_B = P1 ^ 1;
-sbit SN_C = P1 ^ 2;
-sbit SN_D = P1 ^ 3;
-sbit SN_E = P1 ^ 4;
-sbit SN_F = P1 ^ 5;
+sbit SN_A = P1^0;            // P1.0-P1.5 6个端口来控制扫描电路的48根行线
+sbit SN_B = P1^1;
+sbit SN_C = P1^2;
+sbit SN_D = P1^3;
+sbit SN_E = P1^4;
+sbit SN_F = P1^5;
 
 #if 0
 sbit AD7606_DB0 = P0^0;
@@ -50,8 +50,8 @@ void int_serialcom( void )
     TL1  = 0xFD;
     TH1  = 0xFD;  //Baud:19200 fosc="11".0592MHz
       
-    IE   = 0x90;   //Enable Serial Interrupt 
-    TR1  = 1;      // timer 1 run     
+    IE   = 0x90;  //Enable Serial Interrupt 
+    TR1  = 1;     // timer 1 run     
     TI   = 1; 
 }
 
@@ -180,7 +180,7 @@ void AD7606_Send(void)
 
     send_char_com(0x99);    
 
-    for( k = 1; k < 49; k++ )   //1-48个数用K表示    1个k 2个i
+    for( k = 1; k < 49; k++ )   //1-48个数用K表示  1个k 2个i
     {    
          send_char_com(k);
          if( k % 2 == 1 )
