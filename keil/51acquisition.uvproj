@@ -43,7 +43,7 @@
             <InvalidFlash>1</InvalidFlash>
           </TargetStatus>
           <OutputDirectory>.\</OutputDirectory>
-          <OutputName>1607 old</OutputName>
+          <OutputName>51acquisition</OutputName>
           <CreateExecutable>1</CreateExecutable>
           <CreateLib>0</CreateLib>
           <CreateHexFile>1</CreateHexFile>
@@ -347,9 +347,9 @@
           <GroupName>Source Group 1</GroupName>
           <Files>
             <File>
-              <FileName>1607  old.c</FileName>
+              <FileName>51acquisition.c</FileName>
               <FileType>1</FileType>
-              <FilePath>.\1607  old.c</FilePath>
+              <FilePath>.\51acquisition.c</FilePath>
             </File>
           </Files>
         </Group>
