@@ -80,3 +80,46 @@ end
 if strcmpi(EventType, 'confirmation')
     fprintf([EventData.PropertyName ' was configured to ' num2str(EventData.ConfiguredValue) '.\n']);
 end
+
+% jobs start here,
+if strcmpi(EventType, 'datagramreceived')
+    % read the input buffer
+    if  obj.BytesAvailable > 0
+
+        [A, count] = fread(obj, obj.BytesAvailable, 'uchar');
+        % parsing the byte stream
+        n = 1;
+        k = 1;
+        while ( n <= count )
+            if A(n) == 153          % that's 0x99
+                if lbyte == 153     % sync code \0x99\0x99 found
+                    index = 0;      % reset the index
+                    k = 1;          % reset the counter
+                elseif index == nrow * ncol % the first 0x99 or start of a line
+                    k = 1;                    
+                else                % the last byte is the row id
+                    k = 1;
+                end
+            elseif k == 3           % counting
+                k = 1;              % reset
+                matrix(floor(index/ncol) + 1, mod(index,ncol) + 1) = (lbyte*256 + A(n)) * 5 / 32768;
+                index = index + 1;
+            elseif k == 2
+                k = k + 1;
+            elseif k == 1
+                k = k + 1;
+            end
+
+            llbyte = lbyte;
+            lbyte  = A(n); 
+            n = n + 1;
+        end   % end of while...
+    end
+end 
+
+%figure;
+%colormap(1-gray);
+%imagesc(data,[0 1.8]); colorbar; %range for data display 0V to 1.8V. These numbers can be modified.
+%figure;
+%mesh(1:Ncol,1:Nrow,data);
+
