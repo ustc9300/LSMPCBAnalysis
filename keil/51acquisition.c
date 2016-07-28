@@ -237,15 +237,15 @@ void c_charge(void)
     }
 #endif
       //P1=0x00;    delay(1000000); //每扫完一行在下一行脉冲到来时  进行6个AD芯片的数据采集    前面已经将P1口置0 再加一句导致运行失败
-     P1=0x20; delay(0); send_char_com(01); AD7606_Read(); AD7606_Send();
-     P1=0x01; delay(0); send_char_com(02); AD7606_Read(); AD7606_Send();
-     P1=0x21; delay(0); send_char_com(03); AD7606_Read(); AD7606_Send();
-     P1=0x02; delay(0); send_char_com(04); AD7606_Read(); AD7606_Send();  //  代码要跳跃
-     P1=0x22; delay(0); send_char_com(05); AD7606_Read(); AD7606_Send();
-     P1=0x03; delay(0); send_char_com(06); AD7606_Read(); AD7606_Send();
-     P1=0x23; delay(0); send_char_com(07); AD7606_Read(); AD7606_Send();
-     P1=0x04; delay(0); send_char_com(08); AD7606_Read(); AD7606_Send();
-     P1=0x24; delay(0); send_char_com(09); AD7606_Read(); AD7606_Send();
+     P1=0x20; delay(0); send_char_com( 1); AD7606_Read(); AD7606_Send();
+     P1=0x01; delay(0); send_char_com( 2); AD7606_Read(); AD7606_Send();
+     P1=0x21; delay(0); send_char_com( 3); AD7606_Read(); AD7606_Send();
+     P1=0x02; delay(0); send_char_com( 4); AD7606_Read(); AD7606_Send();  //  代码要跳跃
+     P1=0x22; delay(0); send_char_com( 5); AD7606_Read(); AD7606_Send();
+     P1=0x03; delay(0); send_char_com( 6); AD7606_Read(); AD7606_Send();
+     P1=0x23; delay(0); send_char_com( 7); AD7606_Read(); AD7606_Send();
+     P1=0x04; delay(0); send_char_com( 8); AD7606_Read(); AD7606_Send();
+     P1=0x24; delay(0); send_char_com( 9); AD7606_Read(); AD7606_Send();
      P1=0x05; delay(0); send_char_com(10); AD7606_Read(); AD7606_Send();
      P1=0x25; delay(0); send_char_com(11); AD7606_Read(); AD7606_Send();
      P1=0x06; delay(0); send_char_com(12); AD7606_Read(); AD7606_Send();
