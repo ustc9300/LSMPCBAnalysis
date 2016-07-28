@@ -2,7 +2,7 @@
 %
 % A real time PCB data analynizer, created by Dr.GE
 % 
-
+clear;
 %
 % create a serial comm object
 %
@@ -14,7 +14,8 @@
 %
 %  '/dev/tty.xxxx', 8N1@9600
 %
-s = serial('/dev/tty.Bluetooth-Incoming-Port', 'baudrate', 9600, 'parity', 'none', 'databits',8, 'stopbits', 1);
+%s = serial('/dev/tty.Bluetooth-Incoming-Port', 'baudrate', 9600, 'parity', 'none', 'databits',8, 'stopbits', 1);
+s = serial('com2', 'baudrate', 9600, 'parity', 'none', 'databits',8, 'stopbits', 1);
 %
 % add more properties, note that the serial port's properties cannot be modifed after opened.
 %
@@ -65,17 +66,23 @@ s.OutputEmptyFcn = @serial_callback;
 % global data for data exchange with callback
 global nrow;   % row
 global ncol;   % col
+global irow;   %
+global icol;   %
 global matrix; % holding the data from sensor
-global index;  % for counting the image
 global lbyte;  % last byte already read
 global llbyte; % last of last byte
+global nrem;   % bytes in last buffer
+global sync;   % if synchronized0
 
 nrow   = 47;
 ncol   = 48;
+irow   = 0;
+icol   = 0;
 matrix = zeros(nrow, ncol);
-index  = 0;
 lbyte  = 0;
 llbyte = 0;
+sync   = 0;
+nrem   = 0;
 
 % create a UI component here
 figure;
@@ -92,7 +99,7 @@ mesh(1:ncol, 1:nrow, matrix);
 % connect the serial port
 fopen(s);
 % waiting for anykey to exit
-fprintf('[debug] open serial, and waiting for exit');
+fprintf('[debug] open serial, and waiting for exit\n');
 pause;
 % disconnect the serial
 fclose(s);
@@ -100,4 +107,3 @@ fclose(s);
 delete(s);
 % clear the object in workspace
 clear s;
-
