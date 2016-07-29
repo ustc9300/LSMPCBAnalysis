@@ -1,9 +1,0 @@
-Removed Pin From Net: NetName=CS6 Pin=U60-9
-Removed Pin From Net: NetName=CS5 Pin=U60-10
-Removed Pin From Net: NetName=CS4 Pin=U60-11
-Change Component DesignItemId : Designator=U50 Old DesignItemId=A New DesignItemId=AT89C51
-Change Component Description : Designator=U50 Old Description=8-Bit Microcontroller with 4K Flash R New Description=8-Bit Microcontroller with 4K Flash ROM
-Added Pin To Net: NetName=CS6 Pin=U60-7
-Added Pin To Net: NetName=CS5 Pin=U60-9
-Added Pin To Net: NetName=CS4 Pin=U60-10
-Added Room: Name=Sheet 0817

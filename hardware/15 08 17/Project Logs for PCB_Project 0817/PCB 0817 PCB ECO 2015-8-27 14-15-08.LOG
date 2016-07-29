@@ -1,5 +1,0 @@
-Change Component DesignItemId : Designator=U50 Old DesignItemId=AT8 New DesignItemId=A
-Change Component Description : Designator=U50 Old Description=8-Bit Microcontroller with 4K Flash R New Description=8-Bit Microcontroller with 4K Flash ROM
-Added Pin To Net: NetName=GND Pin=U55-19
-Added Member To Class: ClassName=Sheet 0817 Member=Component H21 Header 8
-Added Room: Name=Sheet 0817
