@@ -1,0 +1,37 @@
+Change Component DesignItemId : Designator=U50 Old DesignItemId=AT89C51 New DesignItemId=AT89C
+Change Component Description : Designator=U50 Old Description=8-Bit Microcontroller with 4K F New Description=8-Bit Microcontroller with 4K Flash ROM
+Added Component: Designator=DS0(SMD _LED)
+Added Component: Designator=DS4(SMD _LED)
+Added Component: Designator=DS5(SMD _LED)
+Added Component: Designator=R20(CR2012-0805)
+Added Component: Designator=R24(CR2012-0805)
+Added Component: Designator=R30(C1608-0603)
+Added Pin To Net: NetName=VCC Pin=DS5-1
+Added Pin To Net: NetName=VCC Pin=R20-2
+Added Pin To Net: NetName=VCC Pin=R24-2
+Added Pin To Net: NetName=GND Pin=R30-2
+Added Pin To Net: NetName=NetDS0_1 Pin=DS0-1
+Added Pin To Net: NetName=NetDS0_1 Pin=R20-1
+Added Net: Name=NetDS0_1
+Added Pin To Net: NetName=NetDS0_2 Pin=DS0-2
+Added Pin To Net: NetName=NetDS0_2 Pin=U60-15
+Added Net: Name=NetDS0_2
+Added Pin To Net: NetName=NetDS4_1 Pin=DS4-1
+Added Pin To Net: NetName=NetDS4_1 Pin=R24-1
+Added Net: Name=NetDS4_1
+Added Pin To Net: NetName=NetDS4_2 Pin=DS4-2
+Added Pin To Net: NetName=NetDS4_2 Pin=U60-11
+Added Net: Name=NetDS4_2
+Added Pin To Net: NetName=NetDS5_2 Pin=DS5-2
+Added Pin To Net: NetName=NetDS5_2 Pin=R30-1
+Added Net: Name=NetDS5_2
+Added Member To Class: ClassName=Sheet 0817 Member=Component DS0 LED3
+Added Member To Class: ClassName=Sheet 0817 Member=Component DS4 LED3
+Added Member To Class: ClassName=Sheet 0817 Member=Component DS5 LED3
+Added Member To Class: ClassName=Sheet 0817 Member=Component H14 Header 15X2
+Added Member To Class: ClassName=Sheet 0817 Member=Component H15 Header 15X2
+Added Member To Class: ClassName=Sheet 0817 Member=Component H25 Header 8
+Added Member To Class: ClassName=Sheet 0817 Member=Component R20 Res Semi
+Added Member To Class: ClassName=Sheet 0817 Member=Component R24 Res Semi
+Added Member To Class: ClassName=Sheet 0817 Member=Component R30 Res3
+Added Room: Name=Sheet 0817

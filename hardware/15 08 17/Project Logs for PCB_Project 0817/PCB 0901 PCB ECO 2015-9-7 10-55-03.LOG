@@ -1,0 +1,596 @@
+Removed Pin From Net: NetName=VCC Pin=DS5-1
+Removed Pin From Net: NetName=NetDS5_2 Pin=R30-1
+Removed Pin From Net: NetName=GND Pin=R30-2
+Removed Pin From Net: NetName=NetDS4_2 Pin=U60-11
+Removed Member From Class: ClassName=Sheet 0817 Member=R30
+Change Component DesignItemId : Designator=U50 Old DesignItemId=AT89C New DesignItemId=AT8
+Change Component Designator: OldDesignator=DS0 NewDesignator=DS50
+Change Component Description : Designator=U50 Old Description=8-Bit Microcontroller with 4K Flash R New Description=8-Bit Microcontroller with 4K Flash ROM
+Added Component: Designator=DS1(SMD _LED)
+Added Component: Designator=DS2(SMD _LED)
+Added Component: Designator=DS3(SMD _LED)
+Added Component: Designator=DS6(SMD _LED)
+Added Component: Designator=DS7(SMD _LED)
+Added Component: Designator=DS8(SMD _LED)
+Added Component: Designator=DS9(SMD _LED)
+Added Component: Designator=DS10(SMD _LED)
+Added Component: Designator=DS11(SMD _LED)
+Added Component: Designator=DS12(SMD _LED)
+Added Component: Designator=DS13(SMD _LED)
+Added Component: Designator=DS14(SMD _LED)
+Added Component: Designator=DS15(SMD _LED)
+Added Component: Designator=DS16(SMD _LED)
+Added Component: Designator=DS17(SMD _LED)
+Added Component: Designator=DS18(SMD _LED)
+Added Component: Designator=DS19(SMD _LED)
+Added Component: Designator=DS20(SMD _LED)
+Added Component: Designator=DS21(SMD _LED)
+Added Component: Designator=DS22(SMD _LED)
+Added Component: Designator=DS23(SMD _LED)
+Added Component: Designator=DS24(SMD _LED)
+Added Component: Designator=DS25(SMD _LED)
+Added Component: Designator=DS26(SMD _LED)
+Added Component: Designator=DS27(SMD _LED)
+Added Component: Designator=DS28(SMD _LED)
+Added Component: Designator=DS29(SMD _LED)
+Added Component: Designator=DS30(SMD _LED)
+Added Component: Designator=DS31(SMD _LED)
+Added Component: Designator=DS32(SMD _LED)
+Added Component: Designator=DS33(SMD _LED)
+Added Component: Designator=DS34(SMD _LED)
+Added Component: Designator=DS35(SMD _LED)
+Added Component: Designator=DS36(SMD _LED)
+Added Component: Designator=DS37(SMD _LED)
+Added Component: Designator=DS38(SMD _LED)
+Added Component: Designator=DS39(SMD _LED)
+Added Component: Designator=DS40(SMD _LED)
+Added Component: Designator=DS41(SMD _LED)
+Added Component: Designator=DS42(SMD _LED)
+Added Component: Designator=DS43(SMD _LED)
+Added Component: Designator=DS44(SMD _LED)
+Added Component: Designator=DS45(SMD _LED)
+Added Component: Designator=DS46(SMD _LED)
+Added Component: Designator=DS47(SMD _LED)
+Added Component: Designator=DS48(SMD _LED)
+Added Component: Designator=DS54(SMD _LED)
+Added Component: Designator=DS55(SMD _LED)
+Added Component: Designator=R31(CR2012-0805)
+Added Component: Designator=R51(CR2012-0805)
+Added Component: Designator=R52(CR2012-0805)
+Added Component: Designator=R53(CR2012-0805)
+Added Component: Designator=R54(CR2012-0805)
+Added Component: Designator=R55(CR2012-0805)
+Added Component: Designator=R56(CR2012-0805)
+Added Component: Designator=R57(CR2012-0805)
+Added Component: Designator=R58(CR2012-0805)
+Added Component: Designator=R59(CR2012-0805)
+Added Component: Designator=R60(CR2012-0805)
+Added Component: Designator=R61(CR2012-0805)
+Added Component: Designator=R62(CR2012-0805)
+Added Component: Designator=R63(CR2012-0805)
+Added Component: Designator=R64(CR2012-0805)
+Added Component: Designator=R65(CR2012-0805)
+Added Component: Designator=R66(CR2012-0805)
+Added Component: Designator=R67(CR2012-0805)
+Added Component: Designator=R68(CR2012-0805)
+Added Component: Designator=R69(CR2012-0805)
+Added Component: Designator=R70(CR2012-0805)
+Added Component: Designator=R71(CR2012-0805)
+Added Component: Designator=R72(CR2012-0805)
+Added Component: Designator=R73(CR2012-0805)
+Added Component: Designator=R74(CR2012-0805)
+Added Component: Designator=R75(CR2012-0805)
+Added Component: Designator=R76(CR2012-0805)
+Added Component: Designator=R77(CR2012-0805)
+Added Component: Designator=R78(CR2012-0805)
+Added Component: Designator=R79(CR2012-0805)
+Added Component: Designator=R80(CR2012-0805)
+Added Component: Designator=R81(CR2012-0805)
+Added Component: Designator=R82(CR2012-0805)
+Added Component: Designator=R83(CR2012-0805)
+Added Component: Designator=R84(CR2012-0805)
+Added Component: Designator=R85(CR2012-0805)
+Added Component: Designator=R86(CR2012-0805)
+Added Component: Designator=R87(CR2012-0805)
+Added Component: Designator=R88(CR2012-0805)
+Added Component: Designator=R89(CR2012-0805)
+Added Component: Designator=R90(CR2012-0805)
+Added Component: Designator=R91(CR2012-0805)
+Added Component: Designator=R92(CR2012-0805)
+Added Component: Designator=R93(CR2012-0805)
+Added Component: Designator=R94(CR2012-0805)
+Added Component: Designator=R95(CR2012-0805)
+Added Component: Designator=R96(CR2012-0805)
+Added Component: Designator=R97(CR2012-0805)
+Added Component: Designator=R98(CR2012-0805)
+Added Pin To Net: NetName=VCC Pin=DS55-1
+Added Pin To Net: NetName=GND Pin=R31-1
+Added Pin To Net: NetName=GND Pin=R51-2
+Added Pin To Net: NetName=GND Pin=R52-2
+Added Pin To Net: NetName=GND Pin=R53-2
+Added Pin To Net: NetName=NetDS4_2 Pin=R54-1
+Added Pin To Net: NetName=GND Pin=R54-2
+Added Pin To Net: NetName=NetDS5_2 Pin=R55-1
+Added Pin To Net: NetName=GND Pin=R55-2
+Added Pin To Net: NetName=GND Pin=R56-2
+Added Pin To Net: NetName=GND Pin=R57-2
+Added Pin To Net: NetName=GND Pin=R58-2
+Added Pin To Net: NetName=GND Pin=R59-2
+Added Pin To Net: NetName=GND Pin=R60-2
+Added Pin To Net: NetName=GND Pin=R61-2
+Added Pin To Net: NetName=GND Pin=R62-2
+Added Pin To Net: NetName=GND Pin=R63-2
+Added Pin To Net: NetName=GND Pin=R64-2
+Added Pin To Net: NetName=GND Pin=R65-2
+Added Pin To Net: NetName=GND Pin=R66-2
+Added Pin To Net: NetName=GND Pin=R67-2
+Added Pin To Net: NetName=GND Pin=R68-2
+Added Pin To Net: NetName=GND Pin=R69-2
+Added Pin To Net: NetName=GND Pin=R70-2
+Added Pin To Net: NetName=GND Pin=R71-2
+Added Pin To Net: NetName=GND Pin=R72-2
+Added Pin To Net: NetName=GND Pin=R73-2
+Added Pin To Net: NetName=GND Pin=R74-2
+Added Pin To Net: NetName=GND Pin=R75-2
+Added Pin To Net: NetName=GND Pin=R76-2
+Added Pin To Net: NetName=GND Pin=R77-2
+Added Pin To Net: NetName=GND Pin=R78-2
+Added Pin To Net: NetName=GND Pin=R79-2
+Added Pin To Net: NetName=GND Pin=R80-2
+Added Pin To Net: NetName=GND Pin=R81-2
+Added Pin To Net: NetName=GND Pin=R82-2
+Added Pin To Net: NetName=GND Pin=R83-2
+Added Pin To Net: NetName=GND Pin=R84-2
+Added Pin To Net: NetName=GND Pin=R85-2
+Added Pin To Net: NetName=GND Pin=R86-2
+Added Pin To Net: NetName=GND Pin=R87-2
+Added Pin To Net: NetName=GND Pin=R88-2
+Added Pin To Net: NetName=GND Pin=R89-2
+Added Pin To Net: NetName=GND Pin=R90-2
+Added Pin To Net: NetName=GND Pin=R91-2
+Added Pin To Net: NetName=GND Pin=R92-2
+Added Pin To Net: NetName=GND Pin=R93-2
+Added Pin To Net: NetName=GND Pin=R94-2
+Added Pin To Net: NetName=GND Pin=R95-2
+Added Pin To Net: NetName=GND Pin=R96-2
+Added Pin To Net: NetName=GND Pin=R97-2
+Added Pin To Net: NetName=GND Pin=R98-2
+Change Net Name : Old Net Name=NetDS0_1 New Net Name=NetDS50_1
+Change Net Name : Old Net Name=NetDS0_2 New Net Name=NetDS50_2
+Added Pin To Net: NetName=COM1 Pin=DS1-1
+Added Pin To Net: NetName=COM1 Pin=H4-1
+Added Pin To Net: NetName=COM1 Pin=M1-3
+Added Net: Name=COM1
+Added Pin To Net: NetName=COM2 Pin=DS2-1
+Added Pin To Net: NetName=COM2 Pin=H5-1
+Added Pin To Net: NetName=COM2 Pin=M7-3
+Added Net: Name=COM2
+Added Pin To Net: NetName=COM3 Pin=DS3-1
+Added Pin To Net: NetName=COM3 Pin=H4-2
+Added Pin To Net: NetName=COM3 Pin=M1-8
+Added Net: Name=COM3
+Added Pin To Net: NetName=COM4 Pin=DS4-1
+Added Pin To Net: NetName=COM4 Pin=H5-2
+Added Pin To Net: NetName=COM4 Pin=M7-8
+Added Net: Name=COM4
+Added Pin To Net: NetName=COM5 Pin=DS5-1
+Added Pin To Net: NetName=COM5 Pin=H4-3
+Added Pin To Net: NetName=COM5 Pin=M1-13
+Added Net: Name=COM5
+Added Pin To Net: NetName=COM6 Pin=DS6-1
+Added Pin To Net: NetName=COM6 Pin=H5-3
+Added Pin To Net: NetName=COM6 Pin=M7-13
+Added Net: Name=COM6
+Added Pin To Net: NetName=COM7 Pin=DS7-1
+Added Pin To Net: NetName=COM7 Pin=H4-4
+Added Pin To Net: NetName=COM7 Pin=M1-18
+Added Net: Name=COM7
+Added Pin To Net: NetName=COM8 Pin=DS8-1
+Added Pin To Net: NetName=COM8 Pin=H5-4
+Added Pin To Net: NetName=COM8 Pin=M7-18
+Added Net: Name=COM8
+Added Pin To Net: NetName=COM9 Pin=DS9-1
+Added Pin To Net: NetName=COM9 Pin=H4-5
+Added Pin To Net: NetName=COM9 Pin=M2-3
+Added Net: Name=COM9
+Added Pin To Net: NetName=COM10 Pin=DS10-1
+Added Pin To Net: NetName=COM10 Pin=H5-5
+Added Pin To Net: NetName=COM10 Pin=M8-3
+Added Net: Name=COM10
+Added Pin To Net: NetName=COM11 Pin=DS11-1
+Added Pin To Net: NetName=COM11 Pin=H4-6
+Added Pin To Net: NetName=COM11 Pin=M2-8
+Added Net: Name=COM11
+Added Pin To Net: NetName=COM12 Pin=DS12-1
+Added Pin To Net: NetName=COM12 Pin=H5-6
+Added Pin To Net: NetName=COM12 Pin=M8-8
+Added Net: Name=COM12
+Added Pin To Net: NetName=COM13 Pin=DS13-1
+Added Pin To Net: NetName=COM13 Pin=H4-7
+Added Pin To Net: NetName=COM13 Pin=M2-13
+Added Net: Name=COM13
+Added Pin To Net: NetName=COM14 Pin=DS14-1
+Added Pin To Net: NetName=COM14 Pin=H5-7
+Added Pin To Net: NetName=COM14 Pin=M8-13
+Added Net: Name=COM14
+Added Pin To Net: NetName=COM15 Pin=DS15-1
+Added Pin To Net: NetName=COM15 Pin=H4-8
+Added Pin To Net: NetName=COM15 Pin=M2-18
+Added Net: Name=COM15
+Added Pin To Net: NetName=COM16 Pin=DS16-1
+Added Pin To Net: NetName=COM16 Pin=H5-8
+Added Pin To Net: NetName=COM16 Pin=M8-18
+Added Net: Name=COM16
+Added Pin To Net: NetName=COM17 Pin=DS17-1
+Added Pin To Net: NetName=COM17 Pin=H4-9
+Added Pin To Net: NetName=COM17 Pin=M3-3
+Added Net: Name=COM17
+Added Pin To Net: NetName=COM18 Pin=DS18-1
+Added Pin To Net: NetName=COM18 Pin=H5-9
+Added Pin To Net: NetName=COM18 Pin=M9-3
+Added Net: Name=COM18
+Added Pin To Net: NetName=COM19 Pin=DS19-1
+Added Pin To Net: NetName=COM19 Pin=H4-10
+Added Pin To Net: NetName=COM19 Pin=M3-8
+Added Net: Name=COM19
+Added Pin To Net: NetName=COM20 Pin=DS20-1
+Added Pin To Net: NetName=COM20 Pin=H5-10
+Added Pin To Net: NetName=COM20 Pin=M9-8
+Added Net: Name=COM20
+Added Pin To Net: NetName=COM21 Pin=DS21-1
+Added Pin To Net: NetName=COM21 Pin=H4-11
+Added Pin To Net: NetName=COM21 Pin=M3-13
+Added Net: Name=COM21
+Added Pin To Net: NetName=COM22 Pin=DS22-1
+Added Pin To Net: NetName=COM22 Pin=H5-11
+Added Pin To Net: NetName=COM22 Pin=M9-13
+Added Net: Name=COM22
+Added Pin To Net: NetName=COM23 Pin=DS23-1
+Added Pin To Net: NetName=COM23 Pin=H4-12
+Added Pin To Net: NetName=COM23 Pin=M3-18
+Added Net: Name=COM23
+Added Pin To Net: NetName=COM24 Pin=DS24-1
+Added Pin To Net: NetName=COM24 Pin=H5-12
+Added Pin To Net: NetName=COM24 Pin=M9-18
+Added Net: Name=COM24
+Added Pin To Net: NetName=COM25 Pin=DS25-1
+Added Pin To Net: NetName=COM25 Pin=H4-13
+Added Pin To Net: NetName=COM25 Pin=M4-3
+Added Net: Name=COM25
+Added Pin To Net: NetName=COM26 Pin=DS26-1
+Added Pin To Net: NetName=COM26 Pin=H5-13
+Added Pin To Net: NetName=COM26 Pin=M10-3
+Added Net: Name=COM26
+Added Pin To Net: NetName=COM27 Pin=DS27-1
+Added Pin To Net: NetName=COM27 Pin=H4-14
+Added Pin To Net: NetName=COM27 Pin=M4-8
+Added Net: Name=COM27
+Added Pin To Net: NetName=COM28 Pin=DS28-1
+Added Pin To Net: NetName=COM28 Pin=H5-14
+Added Pin To Net: NetName=COM28 Pin=M10-8
+Added Net: Name=COM28
+Added Pin To Net: NetName=COM29 Pin=DS29-1
+Added Pin To Net: NetName=COM29 Pin=H4-15
+Added Pin To Net: NetName=COM29 Pin=M4-13
+Added Net: Name=COM29
+Added Pin To Net: NetName=COM30 Pin=DS30-1
+Added Pin To Net: NetName=COM30 Pin=H5-15
+Added Pin To Net: NetName=COM30 Pin=M10-13
+Added Net: Name=COM30
+Added Pin To Net: NetName=COM31 Pin=DS31-1
+Added Pin To Net: NetName=COM31 Pin=H4-16
+Added Pin To Net: NetName=COM31 Pin=M4-18
+Added Net: Name=COM31
+Added Pin To Net: NetName=COM32 Pin=DS32-1
+Added Pin To Net: NetName=COM32 Pin=H5-16
+Added Pin To Net: NetName=COM32 Pin=M10-18
+Added Net: Name=COM32
+Added Pin To Net: NetName=COM33 Pin=DS33-1
+Added Pin To Net: NetName=COM33 Pin=H4-17
+Added Pin To Net: NetName=COM33 Pin=M5-3
+Added Net: Name=COM33
+Added Pin To Net: NetName=COM34 Pin=DS34-1
+Added Pin To Net: NetName=COM34 Pin=H5-17
+Added Pin To Net: NetName=COM34 Pin=M11-3
+Added Net: Name=COM34
+Added Pin To Net: NetName=COM35 Pin=DS35-1
+Added Pin To Net: NetName=COM35 Pin=H4-18
+Added Pin To Net: NetName=COM35 Pin=M5-8
+Added Net: Name=COM35
+Added Pin To Net: NetName=COM36 Pin=DS36-1
+Added Pin To Net: NetName=COM36 Pin=H5-18
+Added Pin To Net: NetName=COM36 Pin=M11-8
+Added Net: Name=COM36
+Added Pin To Net: NetName=COM37 Pin=DS37-1
+Added Pin To Net: NetName=COM37 Pin=H4-19
+Added Pin To Net: NetName=COM37 Pin=M5-13
+Added Net: Name=COM37
+Added Pin To Net: NetName=COM38 Pin=DS38-1
+Added Pin To Net: NetName=COM38 Pin=H5-19
+Added Pin To Net: NetName=COM38 Pin=M11-13
+Added Net: Name=COM38
+Added Pin To Net: NetName=COM39 Pin=DS39-1
+Added Pin To Net: NetName=COM39 Pin=H4-20
+Added Pin To Net: NetName=COM39 Pin=M5-18
+Added Net: Name=COM39
+Added Pin To Net: NetName=COM40 Pin=DS40-1
+Added Pin To Net: NetName=COM40 Pin=H5-20
+Added Pin To Net: NetName=COM40 Pin=M11-18
+Added Net: Name=COM40
+Added Pin To Net: NetName=COM41 Pin=DS41-1
+Added Pin To Net: NetName=COM41 Pin=H4-21
+Added Pin To Net: NetName=COM41 Pin=M6-3
+Added Net: Name=COM41
+Added Pin To Net: NetName=COM42 Pin=DS42-1
+Added Pin To Net: NetName=COM42 Pin=H5-21
+Added Pin To Net: NetName=COM42 Pin=M12-3
+Added Net: Name=COM42
+Added Pin To Net: NetName=COM43 Pin=DS43-1
+Added Pin To Net: NetName=COM43 Pin=H4-22
+Added Pin To Net: NetName=COM43 Pin=M6-8
+Added Net: Name=COM43
+Added Pin To Net: NetName=COM44 Pin=DS44-1
+Added Pin To Net: NetName=COM44 Pin=H5-22
+Added Pin To Net: NetName=COM44 Pin=M12-8
+Added Net: Name=COM44
+Added Pin To Net: NetName=COM45 Pin=DS45-1
+Added Pin To Net: NetName=COM45 Pin=H4-23
+Added Pin To Net: NetName=COM45 Pin=M6-13
+Added Net: Name=COM45
+Added Pin To Net: NetName=COM46 Pin=DS46-1
+Added Pin To Net: NetName=COM46 Pin=H5-23
+Added Pin To Net: NetName=COM46 Pin=M12-13
+Added Net: Name=COM46
+Added Pin To Net: NetName=COM47 Pin=DS47-1
+Added Pin To Net: NetName=COM47 Pin=H4-24
+Added Pin To Net: NetName=COM47 Pin=M6-18
+Added Net: Name=COM47
+Added Pin To Net: NetName=COM48 Pin=DS48-1
+Added Pin To Net: NetName=COM48 Pin=H5-24
+Added Pin To Net: NetName=COM48 Pin=M12-18
+Added Net: Name=COM48
+Added Pin To Net: NetName=NetDS1_2 Pin=DS1-2
+Added Pin To Net: NetName=NetDS1_2 Pin=R51-1
+Added Net: Name=NetDS1_2
+Added Pin To Net: NetName=NetDS2_2 Pin=DS2-2
+Added Pin To Net: NetName=NetDS2_2 Pin=R52-1
+Added Net: Name=NetDS2_2
+Added Pin To Net: NetName=NetDS3_2 Pin=DS3-2
+Added Pin To Net: NetName=NetDS3_2 Pin=R53-1
+Added Net: Name=NetDS3_2
+Added Pin To Net: NetName=NetDS6_2 Pin=DS6-2
+Added Pin To Net: NetName=NetDS6_2 Pin=R56-1
+Added Net: Name=NetDS6_2
+Added Pin To Net: NetName=NetDS7_2 Pin=DS7-2
+Added Pin To Net: NetName=NetDS7_2 Pin=R57-1
+Added Net: Name=NetDS7_2
+Added Pin To Net: NetName=NetDS8_2 Pin=DS8-2
+Added Pin To Net: NetName=NetDS8_2 Pin=R58-1
+Added Net: Name=NetDS8_2
+Added Pin To Net: NetName=NetDS9_2 Pin=DS9-2
+Added Pin To Net: NetName=NetDS9_2 Pin=R59-1
+Added Net: Name=NetDS9_2
+Added Pin To Net: NetName=NetDS10_2 Pin=DS10-2
+Added Pin To Net: NetName=NetDS10_2 Pin=R60-1
+Added Net: Name=NetDS10_2
+Added Pin To Net: NetName=NetDS11_2 Pin=DS11-2
+Added Pin To Net: NetName=NetDS11_2 Pin=R61-1
+Added Net: Name=NetDS11_2
+Added Pin To Net: NetName=NetDS12_2 Pin=DS12-2
+Added Pin To Net: NetName=NetDS12_2 Pin=R62-1
+Added Net: Name=NetDS12_2
+Added Pin To Net: NetName=NetDS13_2 Pin=DS13-2
+Added Pin To Net: NetName=NetDS13_2 Pin=R63-1
+Added Net: Name=NetDS13_2
+Added Pin To Net: NetName=NetDS14_2 Pin=DS14-2
+Added Pin To Net: NetName=NetDS14_2 Pin=R64-1
+Added Net: Name=NetDS14_2
+Added Pin To Net: NetName=NetDS15_2 Pin=DS15-2
+Added Pin To Net: NetName=NetDS15_2 Pin=R65-1
+Added Net: Name=NetDS15_2
+Added Pin To Net: NetName=NetDS16_2 Pin=DS16-2
+Added Pin To Net: NetName=NetDS16_2 Pin=R66-1
+Added Net: Name=NetDS16_2
+Added Pin To Net: NetName=NetDS17_2 Pin=DS17-2
+Added Pin To Net: NetName=NetDS17_2 Pin=R67-1
+Added Net: Name=NetDS17_2
+Added Pin To Net: NetName=NetDS18_2 Pin=DS18-2
+Added Pin To Net: NetName=NetDS18_2 Pin=R68-1
+Added Net: Name=NetDS18_2
+Added Pin To Net: NetName=NetDS19_2 Pin=DS19-2
+Added Pin To Net: NetName=NetDS19_2 Pin=R69-1
+Added Net: Name=NetDS19_2
+Added Pin To Net: NetName=NetDS20_2 Pin=DS20-2
+Added Pin To Net: NetName=NetDS20_2 Pin=R70-1
+Added Net: Name=NetDS20_2
+Added Pin To Net: NetName=NetDS21_2 Pin=DS21-2
+Added Pin To Net: NetName=NetDS21_2 Pin=R71-1
+Added Net: Name=NetDS21_2
+Added Pin To Net: NetName=NetDS22_2 Pin=DS22-2
+Added Pin To Net: NetName=NetDS22_2 Pin=R72-1
+Added Net: Name=NetDS22_2
+Added Pin To Net: NetName=NetDS23_2 Pin=DS23-2
+Added Pin To Net: NetName=NetDS23_2 Pin=R73-1
+Added Net: Name=NetDS23_2
+Added Pin To Net: NetName=NetDS24_2 Pin=DS24-2
+Added Pin To Net: NetName=NetDS24_2 Pin=R74-1
+Added Net: Name=NetDS24_2
+Added Pin To Net: NetName=NetDS25_2 Pin=DS25-2
+Added Pin To Net: NetName=NetDS25_2 Pin=R75-1
+Added Net: Name=NetDS25_2
+Added Pin To Net: NetName=NetDS26_2 Pin=DS26-2
+Added Pin To Net: NetName=NetDS26_2 Pin=R76-1
+Added Net: Name=NetDS26_2
+Added Pin To Net: NetName=NetDS27_2 Pin=DS27-2
+Added Pin To Net: NetName=NetDS27_2 Pin=R77-1
+Added Net: Name=NetDS27_2
+Added Pin To Net: NetName=NetDS28_2 Pin=DS28-2
+Added Pin To Net: NetName=NetDS28_2 Pin=R78-1
+Added Net: Name=NetDS28_2
+Added Pin To Net: NetName=NetDS29_2 Pin=DS29-2
+Added Pin To Net: NetName=NetDS29_2 Pin=R79-1
+Added Net: Name=NetDS29_2
+Added Pin To Net: NetName=NetDS30_2 Pin=DS30-2
+Added Pin To Net: NetName=NetDS30_2 Pin=R80-1
+Added Net: Name=NetDS30_2
+Added Pin To Net: NetName=NetDS31_2 Pin=DS31-2
+Added Pin To Net: NetName=NetDS31_2 Pin=R81-1
+Added Net: Name=NetDS31_2
+Added Pin To Net: NetName=NetDS32_2 Pin=DS32-2
+Added Pin To Net: NetName=NetDS32_2 Pin=R82-1
+Added Net: Name=NetDS32_2
+Added Pin To Net: NetName=NetDS33_2 Pin=DS33-2
+Added Pin To Net: NetName=NetDS33_2 Pin=R83-1
+Added Net: Name=NetDS33_2
+Added Pin To Net: NetName=NetDS34_2 Pin=DS34-2
+Added Pin To Net: NetName=NetDS34_2 Pin=R84-1
+Added Net: Name=NetDS34_2
+Added Pin To Net: NetName=NetDS35_2 Pin=DS35-2
+Added Pin To Net: NetName=NetDS35_2 Pin=R85-1
+Added Net: Name=NetDS35_2
+Added Pin To Net: NetName=NetDS36_2 Pin=DS36-2
+Added Pin To Net: NetName=NetDS36_2 Pin=R86-1
+Added Net: Name=NetDS36_2
+Added Pin To Net: NetName=NetDS37_2 Pin=DS37-2
+Added Pin To Net: NetName=NetDS37_2 Pin=R87-1
+Added Net: Name=NetDS37_2
+Added Pin To Net: NetName=NetDS38_2 Pin=DS38-2
+Added Pin To Net: NetName=NetDS38_2 Pin=R88-1
+Added Net: Name=NetDS38_2
+Added Pin To Net: NetName=NetDS39_2 Pin=DS39-2
+Added Pin To Net: NetName=NetDS39_2 Pin=R89-1
+Added Net: Name=NetDS39_2
+Added Pin To Net: NetName=NetDS40_2 Pin=DS40-2
+Added Pin To Net: NetName=NetDS40_2 Pin=R90-1
+Added Net: Name=NetDS40_2
+Added Pin To Net: NetName=NetDS41_2 Pin=DS41-2
+Added Pin To Net: NetName=NetDS41_2 Pin=R91-1
+Added Net: Name=NetDS41_2
+Added Pin To Net: NetName=NetDS42_2 Pin=DS42-2
+Added Pin To Net: NetName=NetDS42_2 Pin=R92-1
+Added Net: Name=NetDS42_2
+Added Pin To Net: NetName=NetDS43_2 Pin=DS43-2
+Added Pin To Net: NetName=NetDS43_2 Pin=R93-1
+Added Net: Name=NetDS43_2
+Added Pin To Net: NetName=NetDS44_2 Pin=DS44-2
+Added Pin To Net: NetName=NetDS44_2 Pin=R94-1
+Added Net: Name=NetDS44_2
+Added Pin To Net: NetName=NetDS45_2 Pin=DS45-2
+Added Pin To Net: NetName=NetDS45_2 Pin=R95-1
+Added Net: Name=NetDS45_2
+Added Pin To Net: NetName=NetDS46_2 Pin=DS46-2
+Added Pin To Net: NetName=NetDS46_2 Pin=R96-1
+Added Net: Name=NetDS46_2
+Added Pin To Net: NetName=NetDS47_2 Pin=DS47-2
+Added Pin To Net: NetName=NetDS47_2 Pin=R97-1
+Added Net: Name=NetDS47_2
+Added Pin To Net: NetName=NetDS48_2 Pin=DS48-2
+Added Pin To Net: NetName=NetDS48_2 Pin=R98-1
+Added Net: Name=NetDS48_2
+Added Pin To Net: NetName=NetDS54_1 Pin=DS54-1
+Added Pin To Net: NetName=NetDS54_1 Pin=R24-1
+Added Net: Name=NetDS54_1
+Added Pin To Net: NetName=NetDS54_2 Pin=DS54-2
+Added Pin To Net: NetName=NetDS54_2 Pin=U60-11
+Added Net: Name=NetDS54_2
+Added Pin To Net: NetName=NetDS55_2 Pin=DS55-2
+Added Pin To Net: NetName=NetDS55_2 Pin=R31-2
+Added Net: Name=NetDS55_2
+Added Member To Class: ClassName=Sheet 0817 Member=Component DS1 LED3
+Added Member To Class: ClassName=Sheet 0817 Member=Component DS2 LED3
+Added Member To Class: ClassName=Sheet 0817 Member=Component DS3 LED3
+Added Member To Class: ClassName=Sheet 0817 Member=Component DS6 LED3
+Added Member To Class: ClassName=Sheet 0817 Member=Component DS7 LED3
+Added Member To Class: ClassName=Sheet 0817 Member=Component DS8 LED3
+Added Member To Class: ClassName=Sheet 0817 Member=Component DS9 LED3
+Added Member To Class: ClassName=Sheet 0817 Member=Component DS10 LED3
+Added Member To Class: ClassName=Sheet 0817 Member=Component DS11 LED3
+Added Member To Class: ClassName=Sheet 0817 Member=Component DS12 LED3
+Added Member To Class: ClassName=Sheet 0817 Member=Component DS13 LED3
+Added Member To Class: ClassName=Sheet 0817 Member=Component DS14 LED3
+Added Member To Class: ClassName=Sheet 0817 Member=Component DS15 LED3
+Added Member To Class: ClassName=Sheet 0817 Member=Component DS16 LED3
+Added Member To Class: ClassName=Sheet 0817 Member=Component DS17 LED3
+Added Member To Class: ClassName=Sheet 0817 Member=Component DS18 LED3
+Added Member To Class: ClassName=Sheet 0817 Member=Component DS19 LED3
+Added Member To Class: ClassName=Sheet 0817 Member=Component DS20 LED3
+Added Member To Class: ClassName=Sheet 0817 Member=Component DS21 LED3
+Added Member To Class: ClassName=Sheet 0817 Member=Component DS22 LED3
+Added Member To Class: ClassName=Sheet 0817 Member=Component DS23 LED3
+Added Member To Class: ClassName=Sheet 0817 Member=Component DS24 LED3
+Added Member To Class: ClassName=Sheet 0817 Member=Component DS25 LED3
+Added Member To Class: ClassName=Sheet 0817 Member=Component DS26 LED3
+Added Member To Class: ClassName=Sheet 0817 Member=Component DS27 LED3
+Added Member To Class: ClassName=Sheet 0817 Member=Component DS28 LED3
+Added Member To Class: ClassName=Sheet 0817 Member=Component DS29 LED3
+Added Member To Class: ClassName=Sheet 0817 Member=Component DS30 LED3
+Added Member To Class: ClassName=Sheet 0817 Member=Component DS31 LED3
+Added Member To Class: ClassName=Sheet 0817 Member=Component DS32 LED3
+Added Member To Class: ClassName=Sheet 0817 Member=Component DS33 LED3
+Added Member To Class: ClassName=Sheet 0817 Member=Component DS34 LED3
+Added Member To Class: ClassName=Sheet 0817 Member=Component DS35 LED3
+Added Member To Class: ClassName=Sheet 0817 Member=Component DS36 LED3
+Added Member To Class: ClassName=Sheet 0817 Member=Component DS37 LED3
+Added Member To Class: ClassName=Sheet 0817 Member=Component DS38 LED3
+Added Member To Class: ClassName=Sheet 0817 Member=Component DS39 LED3
+Added Member To Class: ClassName=Sheet 0817 Member=Component DS40 LED3
+Added Member To Class: ClassName=Sheet 0817 Member=Component DS41 LED3
+Added Member To Class: ClassName=Sheet 0817 Member=Component DS42 LED3
+Added Member To Class: ClassName=Sheet 0817 Member=Component DS43 LED3
+Added Member To Class: ClassName=Sheet 0817 Member=Component DS44 LED3
+Added Member To Class: ClassName=Sheet 0817 Member=Component DS45 LED3
+Added Member To Class: ClassName=Sheet 0817 Member=Component DS46 LED3
+Added Member To Class: ClassName=Sheet 0817 Member=Component DS47 LED3
+Added Member To Class: ClassName=Sheet 0817 Member=Component DS48 LED3
+Added Member To Class: ClassName=Sheet 0817 Member=Component DS54 LED3
+Added Member To Class: ClassName=Sheet 0817 Member=Component DS55 LED3
+Added Member To Class: ClassName=Sheet 0817 Member=Component R31 Res Semi
+Added Member To Class: ClassName=Sheet 0817 Member=Component R51 Res Semi
+Added Member To Class: ClassName=Sheet 0817 Member=Component R52 Res Semi
+Added Member To Class: ClassName=Sheet 0817 Member=Component R53 Res Semi
+Added Member To Class: ClassName=Sheet 0817 Member=Component R54 Res Semi
+Added Member To Class: ClassName=Sheet 0817 Member=Component R55 Res Semi
+Added Member To Class: ClassName=Sheet 0817 Member=Component R56 Res Semi
+Added Member To Class: ClassName=Sheet 0817 Member=Component R57 Res Semi
+Added Member To Class: ClassName=Sheet 0817 Member=Component R58 Res Semi
+Added Member To Class: ClassName=Sheet 0817 Member=Component R59 Res Semi
+Added Member To Class: ClassName=Sheet 0817 Member=Component R60 Res Semi
+Added Member To Class: ClassName=Sheet 0817 Member=Component R61 Res Semi
+Added Member To Class: ClassName=Sheet 0817 Member=Component R62 Res Semi
+Added Member To Class: ClassName=Sheet 0817 Member=Component R63 Res Semi
+Added Member To Class: ClassName=Sheet 0817 Member=Component R64 Res Semi
+Added Member To Class: ClassName=Sheet 0817 Member=Component R65 Res Semi
+Added Member To Class: ClassName=Sheet 0817 Member=Component R66 Res Semi
+Added Member To Class: ClassName=Sheet 0817 Member=Component R67 Res Semi
+Added Member To Class: ClassName=Sheet 0817 Member=Component R68 Res Semi
+Added Member To Class: ClassName=Sheet 0817 Member=Component R69 Res Semi
+Added Member To Class: ClassName=Sheet 0817 Member=Component R70 Res Semi
+Added Member To Class: ClassName=Sheet 0817 Member=Component R71 Res Semi
+Added Member To Class: ClassName=Sheet 0817 Member=Component R72 Res Semi
+Added Member To Class: ClassName=Sheet 0817 Member=Component R73 Res Semi
+Added Member To Class: ClassName=Sheet 0817 Member=Component R74 Res Semi
+Added Member To Class: ClassName=Sheet 0817 Member=Component R75 Res Semi
+Added Member To Class: ClassName=Sheet 0817 Member=Component R76 Res Semi
+Added Member To Class: ClassName=Sheet 0817 Member=Component R77 Res Semi
+Added Member To Class: ClassName=Sheet 0817 Member=Component R78 Res Semi
+Added Member To Class: ClassName=Sheet 0817 Member=Component R79 Res Semi
+Added Member To Class: ClassName=Sheet 0817 Member=Component R80 Res Semi
+Added Member To Class: ClassName=Sheet 0817 Member=Component R81 Res Semi
+Added Member To Class: ClassName=Sheet 0817 Member=Component R82 Res Semi
+Added Member To Class: ClassName=Sheet 0817 Member=Component R83 Res Semi
+Added Member To Class: ClassName=Sheet 0817 Member=Component R84 Res Semi
+Added Member To Class: ClassName=Sheet 0817 Member=Component R85 Res Semi
+Added Member To Class: ClassName=Sheet 0817 Member=Component R86 Res Semi
+Added Member To Class: ClassName=Sheet 0817 Member=Component R87 Res Semi
+Added Member To Class: ClassName=Sheet 0817 Member=Component R88 Res Semi
+Added Member To Class: ClassName=Sheet 0817 Member=Component R89 Res Semi
+Added Member To Class: ClassName=Sheet 0817 Member=Component R90 Res Semi
+Added Member To Class: ClassName=Sheet 0817 Member=Component R91 Res Semi
+Added Member To Class: ClassName=Sheet 0817 Member=Component R92 Res Semi
+Added Member To Class: ClassName=Sheet 0817 Member=Component R93 Res Semi
+Added Member To Class: ClassName=Sheet 0817 Member=Component R94 Res Semi
+Added Member To Class: ClassName=Sheet 0817 Member=Component R95 Res Semi
+Added Member To Class: ClassName=Sheet 0817 Member=Component R96 Res Semi
+Added Member To Class: ClassName=Sheet 0817 Member=Component R97 Res Semi
+Added Member To Class: ClassName=Sheet 0817 Member=Component R98 Res Semi
+Added Room: Name=Sheet 0817

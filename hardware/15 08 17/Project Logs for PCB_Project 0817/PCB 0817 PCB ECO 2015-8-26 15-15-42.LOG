@@ -1,0 +1,46 @@
+Removed Pin From Net: NetName=IN1 Pin=H21-1
+Removed Pin From Net: NetName=IN2 Pin=H21-2
+Removed Pin From Net: NetName=IN3 Pin=H21-3
+Removed Pin From Net: NetName=IN4 Pin=H21-4
+Removed Pin From Net: NetName=IN5 Pin=H21-5
+Removed Pin From Net: NetName=IN6 Pin=H21-6
+Removed Pin From Net: NetName=IN7 Pin=H21-7
+Removed Pin From Net: NetName=IN8 Pin=H21-8
+Removed Pin From Net: NetName=RAGE Pin=S20-2
+Removed Pin From Net: NetName=P1 Pin=U52-1
+Removed Pin From Net: NetName=P2 Pin=U52-2
+Removed Pin From Net: NetName=P3 Pin=U52-3
+Change Component Designator: OldDesignator=U52 NewDesignator=U60
+Added Pin To Net: NetName=IN1 Pin=H21-1
+Added Pin To Net: NetName=OS0 Pin=H21-1
+Added Pin To Net: NetName=IN2 Pin=H21-2
+Added Pin To Net: NetName=P40 Pin=H21-2
+Added Pin To Net: NetName=IN3 Pin=H21-3
+Added Pin To Net: NetName=OS1 Pin=H21-3
+Added Pin To Net: NetName=IN4 Pin=H21-4
+Added Pin To Net: NetName=P40 Pin=H21-4
+Added Pin To Net: NetName=IN5 Pin=H21-5
+Added Pin To Net: NetName=OS2 Pin=H21-5
+Added Pin To Net: NetName=IN6 Pin=H21-6
+Added Pin To Net: NetName=P20 Pin=H21-6
+Added Pin To Net: NetName=IN7 Pin=H21-7
+Added Pin To Net: NetName=RAGE Pin=H21-7
+Added Pin To Net: NetName=IN8 Pin=H21-8
+Added Pin To Net: NetName=P20 Pin=H21-8
+Added Pin To Net: NetName=P20 Pin=S20-1
+Added Pin To Net: NetName=P20 Pin=S20-1
+Added Pin To Net: NetName=P20 Pin=S20-1
+Added Pin To Net: NetName=P20 Pin=S20-1
+Added Pin To Net: NetName=FRST Pin=S20-2
+Added Pin To Net: NetName=OS0 Pin=S20-2
+Added Pin To Net: NetName=OS1 Pin=S20-2
+Added Pin To Net: NetName=OS2 Pin=S20-2
+Added Pin To Net: NetName=RAGE Pin=S20-2
+Added Pin To Net: NetName=P1 Pin=U52-1
+Added Pin To Net: NetName=P2 Pin=U52-2
+Added Pin To Net: NetName=P3 Pin=U52-3
+Added Pin To Net: NetName=P7 Pin=U60-1
+Added Pin To Net: NetName=P8 Pin=U60-2
+Added Pin To Net: NetName=P17 Pin=U60-3
+Added Member To Class: ClassName=Sheet 0817 Member=Component U60 SN74F138D
+Added Room: Name=Sheet 0817
