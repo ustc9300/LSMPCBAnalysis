@@ -206,7 +206,10 @@ void AD7606_Send(void)
 
 void c_charge(void)
 {
+#if 0
     send_char_com(0x01);  //空     不会输出 程序缺陷
+#endif
+
 #if 0
     for( i = 0; i < 47; i++ )
     {
@@ -308,9 +311,9 @@ void c_charge(void)
 
 void main(void) 
 {
+    int_serialcom();
     while(1)
     {     
-        int_serialcom();
         AD7606_Int();
         c_charge();     
         // delay(100) ;
